@@ -1,0 +1,5 @@
+[user]
+	email = lalitav@microsoft.com
+	name = lalitavms
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/bin/git-credential-manager-core.exe
